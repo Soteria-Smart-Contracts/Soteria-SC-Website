@@ -42,7 +42,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/alym-128x128.png",
     "mbrsiteDomain": "z0xiq3haia",
     "canonical-url": false,
